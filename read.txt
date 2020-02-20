@@ -1,0 +1,6 @@
+访问地址：http://127.0.0.1:8080/hospital
+数据库配置在类com.hospital.Dbcoon下
+
+决定采用的数据库库管理系统为SQL SEVER 2005， 需要练习好sqlserver数据库哦！
+tomcat ,
+使用的开发工具为MYECLIPSE的JSP
